@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NivaasSudhan
-- 👨‍💻 I develop Java Microsystems and APIs
-- 🌱 I’m currently learning Angular and Front-End Dev so I can be a ✨ Full-Stack Developer ✨
-- 🎨 I'm also interested to learn UX Design
+- 👨‍💻 I develop Fast, Responsive, and Interactive UI with Angular and Microsystems and APIs with Java
+- 🌱 I’m currently learning CI/CD, Docker, and Kubernetes so I can deploy applications on ✨ The Cloud ✨
+- 🎨 I'm also interested to learn UX Design and AI.
 
 <!---
 NivaasSudhan/NivaasSudhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
