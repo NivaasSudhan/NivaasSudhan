@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NivaasSudhan
-- 👨‍💻 I develop Fast, Responsive, and Interactive UI with Angular and robust and secure Microservices and APIs with Java (SpringBoot)
+- 💻 I currently develop API Integrations for the Banking and Fintech sector.
+- 👨‍💻 I have developed Fast, Responsive, and Interactive UI with Angular and robust and secure Microservices and APIs with Java (SpringBoot).
 - 🌱 I’m currently learning CI/CD, Docker, and Kubernetes so I can deploy applications on ✨ The Cloud ✨
 - 🎨 I'm also interested in learning UX Design, Statistical Models, and Neural Networks.
 
